@@ -1,2 +1,2 @@
 # EngBot
-A discord bot for with tools for software engineering
+A discord bot to make collaborative engineering easier.
